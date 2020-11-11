@@ -21,6 +21,13 @@ Université de Bordeaux
 * Formation professionnelle de Developpeuse Web et web mobile
 Wild Code School
 
+CERTIFICATS :
+* HTML
+Mon certificat HTML, en pdf, sur [SoloLearn](https://www.sololearn.com/Certificate/1014-18189840/pdf/)
+
+* CSS
+Mon certificat CSS, en pdf, sur [SoloLearn](https://www.sololearn.com/Certificate/1023-18189840/pdf/)
+
 ### EXPERIENCES PROFESSIONNELLES
 
 **Formation à la Wild Code School (09/2020 → 02/2021)**
