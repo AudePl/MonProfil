@@ -1,5 +1,5 @@
-# Aude PLANA ![Photo Aude Plana][Ma photo]
-
+![Photo Aude Plana][Ma photo]
+# Aude PLANA 
 ## Developpeuse Web – Full stack - Junior
 
 ### PROFIL
