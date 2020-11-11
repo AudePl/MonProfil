@@ -1,8 +1,8 @@
-#Aude PLANA ![Photo Aude Plana][Ma photo]
+# Aude PLANA ![Photo Aude Plana][Ma photo]
 
-##Developpeuse Web – Full stack - Junior
+## Developpeuse Web – Full stack - Junior
 
-###PROFIL
+### PROFIL
 Aime travailler en équipe – Adapabilité – Auto-apprentissage – Autonome – Dynamique - Rigoureuse
 
 [Mon profil GitHub](https://github.com/AudePl) / 
@@ -21,7 +21,7 @@ Université de Bordeaux
 * Formation professionnelle de Developpeuse Web et web mobile
 Wild Code School
 
-###EXPERIENCES PROFESSIONNELLES
+### EXPERIENCES PROFESSIONNELLES
 
 **Formation à la Wild Code School (09/2020 → 02/2021)**
 
