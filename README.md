@@ -52,4 +52,4 @@ _Technicienne supérieure en chimie analytique_
 	- Recherche et synthèse d’informations
 	- Réalisations de support de présentation
 
-[Ma photo]: https://github.com/AudePl/MonProfil/blob/main/IMG_20200406_180937.jpg
+[Ma photo]: https://github.com/AudePl/MonProfil/blob/main/small_IMG_20200406_180937.jpg
