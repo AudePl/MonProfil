@@ -11,7 +11,8 @@ Aime travailler en équipe – Adapabilité – Auto-apprentissage – Autonome 
 
 COMPETENCES :
 * HTML - CSS (bootstrap) - JavaScript
-* PHP (Symfony) - SQL (Workbench) - MERISE (modélisation)
+* PHP (Symfony)
+* SQL (MySQL/Workbench) - Modélisation (MERISE/UML)
 * Composer - Twig - simple MVC
 * Méthodes Agiles (SCRUM) - Git - Markdown
 
