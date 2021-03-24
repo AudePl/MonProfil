@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T11:13:56.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="c1i33k-E1zimQSpj2fz_" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T11:30:20.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="F9a9-sd6BYPOAPjFQMnn" version="14.5.0" type="github">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Page-1">
-    <mxGraphModel dx="2489" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2335" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,6 +466,33 @@
             <mxPoint x="1193" y="340" as="sourcePoint" />
             <mxPoint x="1193" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-59" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383.5" y="390" as="sourcePoint" />
+            <mxPoint x="384" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-60" value="Upgrade" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="342" y="420" width="84" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-61" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="445" as="sourcePoint" />
+            <mxPoint x="385" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-62" value="popup alert 1 : &lt;br&gt;-&amp;gt; reset IP restart&lt;br&gt;&lt;br&gt;popup alert 2 :&lt;br&gt;-&amp;gt; Clear Cache&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="331" y="470" width="106" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-63" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383.5" y="550" as="sourcePoint" />
+            <mxPoint x="384" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-64" value="Save file &lt;br&gt;and &lt;br&gt;return json (upd_firmware)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="337" y="577" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
