@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T11:04:46.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="JxIltBvsYxZgv_hYrAwI" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T11:13:56.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="c1i33k-E1zimQSpj2fz_" version="14.5.0" type="github">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Page-1">
     <mxGraphModel dx="2489" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2zZ3Chnbvf87mAY_cYjs-66" value="liste d&#39;outils disponible" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="19" width="90" height="40" as="geometry" />
+          <mxGeometry x="555" y="20" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2zZ3Chnbvf87mAY_cYjs-67" value="&lt;p style=&quot;line-height: 120% ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;fonctionnalités en fonction de l&#39;outil sélectionné&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="691" y="160" width="150" height="50" as="geometry" />
