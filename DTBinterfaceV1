@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T13:38:42.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="q51G6mIfjvTIA6j_O2kW" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T13:47:39.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="yADi5oArnUnIn02cBz8d" version="14.5.0" type="github">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Page-1">
     <mxGraphModel dx="2622" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -599,11 +599,26 @@
         <mxCell id="swmOA2QSjGZyUkAFz7La-103" value="modeChange_area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-490" y="150" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="swmOA2QSjGZyUkAFz7La-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-495" y="275" width="120" height="145" as="geometry" />
+        <mxCell id="swmOA2QSjGZyUkAFz7La-104" value="Status / &lt;br&gt;Block Alert Error&lt;br&gt;&lt;br&gt;btn Refresh&amp;nbsp;&lt;br&gt;btn Display" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="275" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="swmOA2QSjGZyUkAFz7La-105" value="checksum_area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-500" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-106" value="&lt;br&gt;btn Manager PN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="405" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-107" value="pn_area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-109" value="report_area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="465" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="swmOA2QSjGZyUkAFz7La-110" value="block alert error&lt;br&gt;btn Show" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-492.5" y="490" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
