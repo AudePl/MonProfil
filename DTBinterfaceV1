@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:04:08.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="_C1P3d0X4aIbzfAr7NVK" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:06:29.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="DJQyrZtzXNJWc6Xn8EOq" version="14.5.1" type="github">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Page-1">
     <mxGraphModel dx="2489" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -683,8 +683,14 @@
             <mxPoint x="-450" y="819.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sucvL_TZYvF1Gjrx-rej-1" value="Besoin client formulé officieusement :&lt;br&gt;&lt;br&gt;- barre de chargement individuel ET globale&lt;br&gt;- sauvegarde + print des log" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="650" width="250" height="70" as="geometry" />
+        <mxCell id="sucvL_TZYvF1Gjrx-rej-1" value="Besoin client formulé officieusement :&lt;br&gt;&lt;br&gt;- barre de chargement individuel ET globale&lt;br&gt;- sauvegarde + print des log" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="640" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sucvL_TZYvF1Gjrx-rej-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="730" width="587" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sucvL_TZYvF1Gjrx-rej-3" value="Ma partie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="737.5" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
