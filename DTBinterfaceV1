@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T14:30:07.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="yOQAnAD55rTFf1fPz9F3" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T14:32:49.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="LSOtUA7S6p91nld0S701" version="14.5.1" type="github">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Page-1">
     <mxGraphModel dx="2489" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -638,7 +638,7 @@
         <mxCell id="swmOA2QSjGZyUkAFz7La-118" value="Serveur :&amp;nbsp;&lt;br&gt;lighttpd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-650" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="swmOA2QSjGZyUkAFz7La-120" value="Dispatcheur&lt;br&gt;= parseur &lt;br&gt;en C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="swmOA2QSjGZyUkAFz7La-120" value="Dispatcheur / parseur &lt;br&gt;en C&lt;br&gt;génère des scripts en Lua" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-450" y="787.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swmOA2QSjGZyUkAFz7La-121" value="FastCGI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -687,7 +687,7 @@
           <mxGeometry x="-770" y="640" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sucvL_TZYvF1Gjrx-rej-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="-824" y="730" width="594" height="160" as="geometry" />
+          <mxGeometry x="-824.75" y="730" width="594" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sucvL_TZYvF1Gjrx-rej-3" value="Ma partie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-815" y="737.5" width="95" height="20" as="geometry" />
