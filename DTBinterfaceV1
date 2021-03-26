@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T14:20:00.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="n-pL790D32sHmcGq3pPX" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-26T14:22:09.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="JnRKz2y9I2VMkBGufD5X" version="14.5.1" type="github" pages="2">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Page-1">
     <mxGraphModel dx="2489" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lyKRzUWNuPQCjK_Km6mz" name="Page-2">
-    <mxGraphModel dx="2489" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ho0y_V5JgAi7jsEbDjvz-0" />
         <mxCell id="ho0y_V5JgAi7jsEbDjvz-1" parent="ho0y_V5JgAi7jsEbDjvz-0" />
@@ -788,7 +788,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-30" value="return json (upd_loader_conf)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ho0y_V5JgAi7jsEbDjvz-1">
-          <mxGeometry x="565" y="790" width="170" height="20" as="geometry" />
+          <mxGeometry x="565" y="790" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-34" value="Cable détecté ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ho0y_V5JgAi7jsEbDjvz-1">
           <mxGeometry x="-472" y="210" width="120" height="30" as="geometry" />
@@ -1147,8 +1147,8 @@
         <mxCell id="YwKugFJZxd0PcNlPox4q-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ho0y_V5JgAi7jsEbDjvz-1" source="YwKugFJZxd0PcNlPox4q-134" target="YwKugFJZxd0PcNlPox4q-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwKugFJZxd0PcNlPox4q-134" value="is first connection ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="ho0y_V5JgAi7jsEbDjvz-1">
-          <mxGeometry x="302.5" y="-340" width="155" height="40" as="geometry" />
+        <mxCell id="YwKugFJZxd0PcNlPox4q-134" value="&lt;b&gt;is first connection ?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="ho0y_V5JgAi7jsEbDjvz-1">
+          <mxGeometry x="302.5" y="-300" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ho0y_V5JgAi7jsEbDjvz-1" source="YwKugFJZxd0PcNlPox4q-136">
           <mxGeometry relative="1" as="geometry">
@@ -1156,7 +1156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-136" value="non" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="ho0y_V5JgAi7jsEbDjvz-1">
-          <mxGeometry x="350" y="-260" width="60" height="20" as="geometry" />
+          <mxGeometry x="350" y="-240" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-137" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ho0y_V5JgAi7jsEbDjvz-1" source="YwKugFJZxd0PcNlPox4q-134" target="YwKugFJZxd0PcNlPox4q-136">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1168,10 +1168,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-139" value="oui" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="ho0y_V5JgAi7jsEbDjvz-1">
-          <mxGeometry x="220" y="-332.5" width="40" height="25" as="geometry" />
+          <mxGeometry x="220" y="-292.5" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-145" value="change default password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="ho0y_V5JgAi7jsEbDjvz-1">
-          <mxGeometry y="-340" width="160" height="40" as="geometry" />
+          <mxGeometry y="-300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YwKugFJZxd0PcNlPox4q-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ho0y_V5JgAi7jsEbDjvz-1" source="YwKugFJZxd0PcNlPox4q-151" target="YwKugFJZxd0PcNlPox4q-154">
           <mxGeometry relative="1" as="geometry" />
