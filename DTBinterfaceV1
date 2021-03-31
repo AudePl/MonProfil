@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T15:01:49.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="PILQW0iNld8Q2c5qVS5H" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-31T15:02:21.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="mzhd55uppklW30xhBpj2" version="14.5.3" type="github" pages="4">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Version1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2007,7 +2007,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ClquKzYaupcIHZ-WtiB" name="Self-tests">
-    <mxGraphModel dx="2489" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TlPx0hyzGhgBlZbWzbAu-0" />
         <mxCell id="TlPx0hyzGhgBlZbWzbAu-1" parent="TlPx0hyzGhgBlZbWzbAu-0" />
@@ -2436,7 +2436,7 @@
           <mxGeometry x="-55" y="530" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IorzQWCIPZNF5HWRFOCH-1" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont les auto-tests&lt;br&gt;PIDS-DTB-REQ-0620 : possibilité de lancer des auto-tests sur demande avec un bouclage physique à la fin du cable d&#39;éqpt&lt;br&gt;PIDS-DTB-REQ-0640 : possibilité de tester RS232 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0650 : possibilité de tester synchrone RS422 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0660 : possibilité de tester asynchrone RS422 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0680 : possibilité de tester discret I/O avec un cable de boucalge externe&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1570 : eqpt cable name or no cable detected&lt;br&gt;SRS-DTB-REQ-1580 : bouton start pour lancer les tests&lt;br&gt;SRS-DTB-REQ-1590 : statut des tests possibles : N/A - In Progress - OK - KO - Wait&lt;br&gt;SRS-DTB-REQ-1600 : liste des tests : I/O - RS 232 - RS422 (Synchrone + Asynchrone) - LEDs. Choisie par Checkbox. Un statut global est disponible&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1620 : solution interactive pour tester les 3 LEDs (selon tableau LED/cas de test)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
-          <mxGeometry x="827" y="730" width="810" height="230" as="geometry" />
+          <mxGeometry x="750" y="730" width="810" height="230" as="geometry" />
         </mxCell>
         <mxCell id="IorzQWCIPZNF5HWRFOCH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0080;" edge="1" parent="TlPx0hyzGhgBlZbWzbAu-1" source="IorzQWCIPZNF5HWRFOCH-2" target="IorzQWCIPZNF5HWRFOCH-6">
           <mxGeometry relative="1" as="geometry" />
