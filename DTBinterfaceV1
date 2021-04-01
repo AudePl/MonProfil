@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T13:19:52.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="xmN-vTNDi2GqFExyO0u0" version="14.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-01T14:26:26.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="7IPbTQ6NnQ_ERgNdr5YI" version="14.5.3" type="github" pages="6">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Version1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1699,7 +1699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Global" id="Zg1098URI8L6H4mg2fAR">
-    <mxGraphModel dx="2489" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FBW4dNBqTah_Vxy5mtsZ-0" />
         <mxCell id="FBW4dNBqTah_Vxy5mtsZ-1" parent="FBW4dNBqTah_Vxy5mtsZ-0" />
@@ -2007,7 +2007,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ClquKzYaupcIHZ-WtiB" name="Self-tests">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TlPx0hyzGhgBlZbWzbAu-0" />
         <mxCell id="TlPx0hyzGhgBlZbWzbAu-1" parent="TlPx0hyzGhgBlZbWzbAu-0" />
@@ -2435,8 +2435,8 @@
         <mxCell id="L7Ga1LHZHWPp8Fw1mcgy-58" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;color: rgb(255 , 0 , 128)&quot;&gt;Rq =&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ff0080&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;DTB_mode_change&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;mode = TEST&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TlPx0hyzGhgBlZbWzbAu-1" vertex="1">
           <mxGeometry x="-55" y="530" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IorzQWCIPZNF5HWRFOCH-1" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont les auto-tests&lt;br&gt;PIDS-DTB-REQ-0620 : possibilité de lancer des auto-tests sur demande avec un bouclage physique à la fin du cable d&#39;éqpt&lt;br&gt;PIDS-DTB-REQ-0640 : possibilité de tester RS232 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0650 : possibilité de tester synchrone RS422 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0660 : possibilité de tester asynchrone RS422 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0680 : possibilité de tester discret I/O avec un cable de boucalge externe&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1570 : eqpt cable name or no cable detected&lt;br&gt;SRS-DTB-REQ-1580 : bouton start pour lancer les tests&lt;br&gt;SRS-DTB-REQ-1590 : statut des tests possibles : N/A - In Progress - OK - KO - Wait&lt;br&gt;SRS-DTB-REQ-1600 : liste des tests : I/O - RS 232 - RS422 (Synchrone + Asynchrone) - LEDs. Choisie par Checkbox. Un statut global est disponible&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1620 : solution interactive pour tester les 3 LEDs (selon tableau LED/cas de test)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TlPx0hyzGhgBlZbWzbAu-1" vertex="1">
-          <mxGeometry x="750" y="730" width="810" height="230" as="geometry" />
+        <mxCell id="IorzQWCIPZNF5HWRFOCH-1" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont les auto-tests&lt;br&gt;PIDS-DTB-REQ-0620 : possibilité de lancer des auto-tests sur demande avec un bouclage physique à la fin du cable d&#39;éqpt&lt;br&gt;PIDS-DTB-REQ-0640 : possibilité de tester RS232 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0650 : possibilité de tester synchrone RS422 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0660 : possibilité de tester asynchrone RS422 avec un cable de boucalge externe&lt;br&gt;PIDS-DTB-REQ-0680 : possibilité de tester discret I/O avec un cable de boucalge externe&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1570 : eqpt cable name or no cable detected&lt;br&gt;SRS-DTB-REQ-1580 : bouton start pour lancer les tests&lt;br&gt;SRS-DTB-REQ-1590 : statut des tests possibles : N/A - In Progress - OK - KO - Wait&lt;br&gt;SRS-DTB-REQ-1600 : liste des tests : I/O - RS 232 - RS422 (Synchrone + Asynchrone) - LEDs. Choisie par Checkbox. Un statut global est disponible&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1620 : solution interactive pour tester les 3 LEDs (selon tableau LED/cas de test)&lt;br&gt;&lt;br&gt;&lt;b&gt;Services :&lt;/b&gt;&lt;br&gt;SRS-DTB-REQ-2030 : get_cable : ce service retourne le type de cable utilisé pour les auto-tests, il retourne le type de cable depuis le loader configuration&lt;br&gt;SRS-DTB-REQ-0540 : leds_driver : ce service permet de régler les LEDs Traffic ou Ready sur un état spécifique, uniquement si le mode de la DTB est &quot;TEST&quot;.&lt;br&gt;SRS-DTB-REQ-0560 : serial_seltest : ce service permet de tester les liens de communication de la DTB en utilisant un cable de bouclage sur différentes configurations.&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-0550 : dio_seltest : ce service permet de tester les discrets input/output de la DTB en utilisant un cable de bouclage, ou un sous-ensemble de celles-ci définis dans le fichier loader configuration.&lt;br&gt;SRS-DTB-REQ-0551 : dio_seltest : ce service retourne une erreur quand il détecte une configuration invalide sur l&#39;éqpt dio de l&#39;auto-test, depuis le loader configuration.&lt;br&gt;SRS-DTB-REQ-2130 : DTB_mode_status : ce service paramètre le mode de la DTB (TEST ou OPER)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TlPx0hyzGhgBlZbWzbAu-1" vertex="1">
+          <mxGeometry x="737" y="681" width="810" height="429" as="geometry" />
         </mxCell>
         <mxCell id="IorzQWCIPZNF5HWRFOCH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0080;" parent="TlPx0hyzGhgBlZbWzbAu-1" source="IorzQWCIPZNF5HWRFOCH-2" target="IorzQWCIPZNF5HWRFOCH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2591,22 +2591,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NitVGhxM8hpgo03OHBoE-1" value="&lt;b&gt;get_cable&lt;/b&gt;&lt;br&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : status / type" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
-          <mxGeometry x="-800" y="520" width="160" height="68" as="geometry" />
+          <mxGeometry x="-760" y="642" width="160" height="68" as="geometry" />
         </mxCell>
         <mxCell id="NitVGhxM8hpgo03OHBoE-2" value="&lt;b&gt;leds_driver&lt;/b&gt;&lt;br&gt;Type: POST&lt;br&gt;Input : ledName / ledStatus&lt;br&gt;Output : status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
-          <mxGeometry x="-800" y="601" width="160" height="68" as="geometry" />
+          <mxGeometry x="-760" y="723" width="160" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="NitVGhxM8hpgo03OHBoE-3" value="&lt;b&gt;serial_selftest&lt;/b&gt;&lt;br&gt;Type:&amp;nbsp;&lt;br&gt;Input : port / baudrate&lt;br&gt;Output : status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
-          <mxGeometry x="-800" y="681" width="160" height="68" as="geometry" />
+        <mxCell id="NitVGhxM8hpgo03OHBoE-3" value="&lt;b&gt;serial_selftest&lt;/b&gt;&lt;br&gt;Type: POST&lt;br&gt;Input : port / baudrate&lt;br&gt;Output : status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
+          <mxGeometry x="-760" y="803" width="160" height="68" as="geometry" />
         </mxCell>
         <mxCell id="NitVGhxM8hpgo03OHBoE-4" value="&lt;b&gt;dio_selftest&lt;/b&gt;&lt;br&gt;Type: POST&lt;br&gt;Input : cable&lt;br&gt;Output : status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
-          <mxGeometry x="-800" y="761" width="160" height="68" as="geometry" />
+          <mxGeometry x="-760" y="883" width="160" height="68" as="geometry" />
         </mxCell>
         <mxCell id="NitVGhxM8hpgo03OHBoE-5" value="&lt;b&gt;DTB_mode_status&lt;/b&gt;&lt;br&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : status / mode" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
-          <mxGeometry x="-800" y="840" width="160" height="68" as="geometry" />
+          <mxGeometry x="-760" y="962" width="160" height="68" as="geometry" />
         </mxCell>
         <mxCell id="NitVGhxM8hpgo03OHBoE-6" value="Web Services" style="text;html=1;strokeColor=#000000;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TlPx0hyzGhgBlZbWzbAu-1">
-          <mxGeometry x="-800" y="480" width="160" height="30" as="geometry" />
+          <mxGeometry x="-760" y="602" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2739,8 +2739,8 @@
         <mxCell id="xeyNLxb9VXjpYrMts3Ll-0" value="Click sur Software upgrade&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry x="-82" y="128" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yMsh_uHY3pK2JNEG1RrC-0" value="&lt;b&gt;isConnected&lt;/b&gt;&lt;br&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : user / level / isFirstConnection" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
-          <mxGeometry x="-799.75" y="560" width="220" height="68" as="geometry" />
+        <mxCell id="yMsh_uHY3pK2JNEG1RrC-0" value="&lt;b&gt;isConnected (pas de SRS)&lt;/b&gt;&lt;br&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : user / level / isFirstConnection" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
+          <mxGeometry x="-799.75" y="580" width="220" height="68" as="geometry" />
         </mxCell>
         <mxCell id="yMsh_uHY3pK2JNEG1RrC-1" value="ouverture modal password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry x="-444.99" y="163" width="152.06" height="30" as="geometry" />
@@ -2758,7 +2758,7 @@
           <mxGeometry x="-799.75" y="256" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a7dcCVyEJc8TgU2jaHed-4" value="&lt;b&gt;read_version&lt;br&gt;&lt;/b&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : PN / version / status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
-          <mxGeometry x="-799.75" y="640" width="220" height="68" as="geometry" />
+          <mxGeometry x="-799.75" y="660" width="220" height="68" as="geometry" />
         </mxCell>
         <mxCell id="3AgX4aEYYADW33YqaFah-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0080;" edge="1" parent="wMf7e1Jju2XhVH5U9S2d-1" target="3AgX4aEYYADW33YqaFah-7">
           <mxGeometry relative="1" as="geometry">
@@ -2844,7 +2844,7 @@
           <mxGeometry x="198" y="305" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3AgX4aEYYADW33YqaFah-4" value="&lt;b&gt;password_validation&lt;/b&gt;&lt;br&gt;Type: POST&lt;br&gt;Input : password entrer par user (max 25caractères)&lt;br&gt;Output : status / isPasswordValid (bool)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
-          <mxGeometry x="-799.75" y="470" width="279.75" height="80" as="geometry" />
+          <mxGeometry x="-799.75" y="490" width="279.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AgX4aEYYADW33YqaFah-5" value="" style="endArrow=classic;html=1;" edge="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2915,7 +2915,7 @@
             <mxPoint x="198" y="388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WFv9XdiTsWYPFUHWbx_Z-10" value="Rp1 = Status / version / PN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
+        <mxCell id="WFv9XdiTsWYPFUHWbx_Z-10" value="Rp1 = Status / version / PN / error" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry x="198" y="368" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WFv9XdiTsWYPFUHWbx_Z-11" value="" style="endArrow=classic;html=1;" edge="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
@@ -2936,7 +2936,7 @@
         <mxCell id="WFv9XdiTsWYPFUHWbx_Z-14" value="affichage page Upgrade avec infos DTB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry x="-82" y="428" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UINnkwPWTMe17vPOlH0n-0" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont la mise à jour de la DTB&lt;br&gt;PIDS-DTB-REQ-0340 : la DTB doit être mise à jour par l&#39;utilisateur final via USB ou Ethernet&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1630 : être protéger par mot de passe + caractères cachés lors de la saisie&lt;br&gt;SRS-DTB-REQ-1640 : afficher la version actuelle du firmware (type Kxxxxxx) et le PN hardware (type Bxxxxxx) de la DTB&lt;br&gt;SRS-DTB-REQ-1650 : possibilité de selectionner une fichier image du firmware qui sera un fichier ZIP, le bouton &quot;Upgrade&quot; permet de démarrer le process&lt;br&gt;SRS-DTB-REQ-1660 : affichage d&#39;une barre de progression pendant l&#39;upgrade&lt;br&gt;&lt;br&gt;&lt;b&gt;Services &lt;/b&gt;:&lt;br&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-2000 : password_validation : ce service doit comparer le password entré et celui enregistré dans la config de la DTB&lt;br&gt;SRS-DTB-REQ-0450 : upd_firmware : ce service doit permettre de mettre à jour le firmware de la DTB. Le fichier doit être une archive ZIP contenant un fichier nommé ulmage et/ou un fichier nommé DTB.rootfs.img&amp;nbsp;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
+        <mxCell id="UINnkwPWTMe17vPOlH0n-0" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont la mise à jour de la DTB&lt;br&gt;PIDS-DTB-REQ-0340 : la DTB doit être mise à jour par l&#39;utilisateur final via USB ou Ethernet&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1630 : être protéger par mot de passe + caractères cachés lors de la saisie&lt;br&gt;SRS-DTB-REQ-1640 : afficher la version actuelle du firmware (type Kxxxxxx) et le PN hardware (type Bxxxxxx) de la DTB&lt;br&gt;SRS-DTB-REQ-1650 : possibilité de selectionner une fichier image du firmware qui sera un fichier ZIP, le bouton &quot;Upgrade&quot; permet de démarrer le process&lt;br&gt;SRS-DTB-REQ-1660 : affichage d&#39;une barre de progression pendant l&#39;upgrade&lt;br&gt;&lt;br&gt;&lt;b&gt;Services &lt;/b&gt;:&lt;br&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-2000 : password_validation : ce service doit comparer le password entré et celui enregistré dans la config de la DTB&lt;br&gt;SRS-DTB-REQ-0450 : upd_firmware : ce service doit permettre de mettre à jour le firmware de la DTB. Le fichier doit être une archive ZIP contenant un fichier nommé ulmage et/ou un fichier nommé DTB.rootfs.img&lt;br&gt;SRS-DTB-REQ-0420 : read_version : ce service doit récupérer la version du software et le PN de la DTB&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry x="560" y="713" width="813" height="320" as="geometry" />
         </mxCell>
         <mxCell id="KSnIG5zAdxsXIb21GDtg-0" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;JS =&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;Affichage modal&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
@@ -3019,7 +3019,7 @@
           <mxGeometry x="-83" y="643" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mNPMY8M7xW0lDNh3ZKON-16" value="&lt;b&gt;upd_firmware&lt;br&gt;&lt;/b&gt;Type: POST&lt;br&gt;Input : fichier&lt;br&gt;Output : status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
-          <mxGeometry x="-799.75" y="720" width="220" height="68" as="geometry" />
+          <mxGeometry x="-799.75" y="740" width="220" height="68" as="geometry" />
         </mxCell>
         <mxCell id="mNPMY8M7xW0lDNh3ZKON-18" value="" style="endArrow=classic;html=1;" edge="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3110,6 +3110,256 @@
         </mxCell>
         <mxCell id="G3L95jwX3isuClP8eKDP-6" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Rp =&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;status /&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;filename /&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;file size&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
           <mxGeometry x="-335.32000000000005" y="769.5" width="60" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="3TYsizMQBIvwtJXJPnWO-0" value="Web Services" style="text;html=1;strokeColor=#000000;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wMf7e1Jju2XhVH5U9S2d-1">
+          <mxGeometry x="-739.8700000000001" y="443" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BL3YK55oo5uQn23uyD1K" name="Settings - 1/6 identification">
+    <mxGraphModel dx="2701" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="gLZAAOmCul6TREYDjt00-0" />
+        <mxCell id="gLZAAOmCul6TREYDjt00-1" parent="gLZAAOmCul6TREYDjt00-0" />
+        <mxCell id="MCU-w9vxFE-BwtTOxfYn-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;&lt;u&gt;Settings&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="50" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqSG3SPZ2iK1J76_03wA-7" value="Configuration / Settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-486.44" y="132" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KqSG3SPZ2iK1J76_03wA-9" value="Paramètrage réseau" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-561" y="480" width="100.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KqSG3SPZ2iK1J76_03wA-10" value="Change &lt;br&gt;password admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-260" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KqSG3SPZ2iK1J76_03wA-14" value="Configuration éqpt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-360" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KqSG3SPZ2iK1J76_03wA-16" value="Choix &lt;br&gt;langue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-460.49999999999994" y="480" width="100.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLv9msQvmPxZy4eA0oWx-0" value="&lt;font color=&quot;#ff0080&quot;&gt;Rq : &lt;br&gt;Request &lt;br&gt;Web Services&lt;/font&gt;" style="text;html=1;strokeColor=#FF0080;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-799.75" y="42" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLv9msQvmPxZy4eA0oWx-1" value="&lt;font color=&quot;#3399ff&quot;&gt;Rp : &lt;br&gt;Response&amp;nbsp;&lt;br&gt;Web Services&lt;/font&gt;" style="text;html=1;strokeColor=#3399FF;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-799.75" y="112" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLv9msQvmPxZy4eA0oWx-2" value="&lt;font color=&quot;#00cc00&quot;&gt;JS :&lt;br&gt;Action in JS by IHM&lt;/font&gt;" style="text;html=1;strokeColor=#00CC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-799.75" y="182" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLv9msQvmPxZy4eA0oWx-3" value="&lt;font color=&quot;#ff8000&quot;&gt;St :&lt;br&gt;infos in HTML&lt;/font&gt;" style="text;html=1;strokeColor=#FF8000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-799.75" y="256" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wcFTizj5aPKmOu_LX0e_-0" value="password admin&lt;br&gt;required" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FF0000;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-476.44" y="50.5" width="120" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;" edge="1" parent="gLZAAOmCul6TREYDjt00-1" target="rJuU2bqw36s7TeM9ggtT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-422.4100000000001" y="172" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-1" value="ouverture modal password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-498.5" y="211" width="152.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5zls_N9Izn4mW74iVgM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0080;" edge="1" parent="gLZAAOmCul6TREYDjt00-1" source="rJuU2bqw36s7TeM9ggtT-3" target="rJuU2bqw36s7TeM9ggtT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-3" value="ouverture page Settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-393.51" y="319.5" width="136.08" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-4" value="&lt;font color=&quot;#ff0080&quot;&gt;Rq =&amp;nbsp;&lt;br&gt;password_validation&lt;br&gt;(input password value)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-418.92" y="239" width="136.91" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-5" value="Affichage page Settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-395.46999999999997" y="430" width="140" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-8" value="msg erreur + pas accès" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-563.51" y="320.5" width="136.08" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3399FF;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-421.51" y="299" as="sourcePoint" />
+            <mxPoint x="-495.47" y="320.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-495.51" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-10" value="&lt;font color=&quot;#3399ff&quot;&gt;Rp : &lt;br&gt;Status = OK&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-319.42" y="288" width="70" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-11" value="&lt;font color=&quot;#3399ff&quot;&gt;Rp : &lt;br&gt;Status = KO&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-568.5" y="287" width="70" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-12" value="" style="endArrow=none;html=1;strokeColor=#FF0080;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-422.51" y="298" as="sourcePoint" />
+            <mxPoint x="-422.97" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-13" value="" style="endArrow=classic;html=1;strokeColor=#3399FF;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-423.51" y="299" as="sourcePoint" />
+            <mxPoint x="-327.47" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-327.47" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJuU2bqw36s7TeM9ggtT-14" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;JS =&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;Affichage modal&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-418.92" y="172" width="100" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-0" value="" style="endArrow=none;html=1;fillColor=#FFFFFF;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="560" as="sourcePoint" />
+            <mxPoint x="-20" y="101" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-1" value="" style="endArrow=none;html=1;fillColor=#FFFFFF;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="560" as="sourcePoint" />
+            <mxPoint x="260" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-2" value="" style="endArrow=none;html=1;fillColor=#FFFFFF;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="560" as="sourcePoint" />
+            <mxPoint x="540" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-40" y="81" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IHM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="240" y="81" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-5" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="123" as="sourcePoint" />
+            <mxPoint x="260" y="123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-6" value="Click sur Settings&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-22" y="101" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-7" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="168" as="sourcePoint" />
+            <mxPoint x="-22" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-8" value="" style="curved=1;endArrow=classic;html=1;strokeColor=#000000;fillColor=#FF0080;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="125.5" as="sourcePoint" />
+            <mxPoint x="260" y="168" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="128" />
+              <mxPoint x="280" y="138" />
+              <mxPoint x="280" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-9" value="demande Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-22" y="148" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-10" value="ouverture modal pour identification" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="288" y="131" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-11" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="202" as="sourcePoint" />
+            <mxPoint x="260" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-12" value="Entre Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-22" y="184" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-13" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="234" as="sourcePoint" />
+            <mxPoint x="540" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-14" value="Rq = password_validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="258" y="212" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-15" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539" y="262" as="sourcePoint" />
+            <mxPoint x="258" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-16" value="Rp = Status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="258" y="242" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-17" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="263" as="sourcePoint" />
+            <mxPoint x="259" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="270" />
+              <mxPoint x="240" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-18" value="si OK" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="190" y="281" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-23" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="276" as="sourcePoint" />
+            <mxPoint x="-22" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-24" value="si KO = msg erreur wrong password + pas accès" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-22" y="256" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxNutr0BxUjmyD1sPIlk-55" value="Change &lt;br&gt;password admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-160" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5zls_N9Izn4mW74iVgM-1" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;color: rgb(255 , 0 , 128)&quot;&gt;Rq =&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ff0080&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;network_status&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-411.96" y="350" width="92.54" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="A5zls_N9Izn4mW74iVgM-2" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span style=&quot;color: rgb(255 , 0 , 128)&quot;&gt;Rq =&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ff0080&quot;&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;language_status&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-420.04" y="385" width="100.62" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="A5zls_N9Izn4mW74iVgM-4" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="306" as="sourcePoint" />
+            <mxPoint x="540" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5zls_N9Izn4mW74iVgM-5" value="Rq = network_status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="258" y="284" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A5zls_N9Izn4mW74iVgM-6" value="" style="endArrow=classic;html=1;" edge="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="337" as="sourcePoint" />
+            <mxPoint x="540" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5zls_N9Izn4mW74iVgM-7" value="Rq = lanuage_status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="258" y="315" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWqNcqKDgSKN_k8IQlx-2" value="&lt;b&gt;password_validation&lt;/b&gt;&lt;br&gt;Type: POST&lt;br&gt;Input : password entrer par user (max 25caractères)&lt;br&gt;Output : status / isPasswordValid (bool)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-799.75" y="567" width="279.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWqNcqKDgSKN_k8IQlx-3" value="&lt;b&gt;language_status&lt;br&gt;&lt;/b&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : language (Fr ou Eng)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-799.75" y="660" width="220" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWqNcqKDgSKN_k8IQlx-4" value="Web Services" style="text;html=1;strokeColor=#000000;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-760.0000000000001" y="520" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoWqNcqKDgSKN_k8IQlx-5" value="&lt;b&gt;network_status&lt;br&gt;&lt;/b&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : Status / isDHCPEnabled / networkMask / dhcpStartAddr / dhcpEndAddr / DTB_IP / GATEWAY_IP" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="-799.75" y="740" width="219.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="29mjvKKhUPDuNtFZIcnR-0" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont la mise à jour de la DTB&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1630 : être protéger par mot de passe + caractères cachés lors de la saisie&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Services &lt;/b&gt;:&lt;br&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-2000 : password_validation : ce service doit comparer le password entré et celui enregistré dans la config de la DTB&lt;br&gt;SRS-DTB-REQ-2120 : language_status : ce service récupère le langage actuel de l&#39;IHM de la DTB&lt;br&gt;SRS-DTB-REQ-2120 : network_status : ce service récupère la configuration réseau" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gLZAAOmCul6TREYDjt00-1">
+          <mxGeometry x="560" y="713" width="813" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
