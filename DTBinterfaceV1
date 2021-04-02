@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T10:15:56.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="dYsqk7fJQnO5C5ozefE4" version="14.5.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-04-02T10:37:01.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="LjYgz90iwS908juZXk_n" version="14.5.4" type="github" pages="8">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Version1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2195,25 +2195,25 @@
             <mxPoint x="442" y="318.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s6XZJsgD8pmxk0hd1DYp-9" value="Rp 2= status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
+        <mxCell id="s6XZJsgD8pmxk0hd1DYp-9" value="Rp 2= status / isFirstConnexion (bool)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
           <mxGeometry x="442" y="299" width="280" height="21" as="geometry" />
         </mxCell>
         <mxCell id="yLedLss22WfrCdxNLlaM-0" value="&lt;b&gt;language_status&lt;/b&gt;&lt;br&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : status / language" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
-          <mxGeometry x="-800" y="440" width="160" height="68" as="geometry" />
+          <mxGeometry x="-800" y="480" width="160" height="68" as="geometry" />
         </mxCell>
         <mxCell id="yLedLss22WfrCdxNLlaM-1" value="Web Services" style="text;html=1;strokeColor=#000000;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
-          <mxGeometry x="-800" y="400" width="160" height="30" as="geometry" />
+          <mxGeometry x="-800" y="440" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aSLD9Er5yxa50YX26Dn1-0" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont les auto-tests&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-1570 : eqpt&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Services :&lt;br&gt;&lt;/b&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-2120 : language_status : ce service retourne la langue de l&#39;interface (Fr ou Eng)&lt;br&gt;SRS-DTB-REQ-2100 : is_first_connexion : ce service indique si il y a eu une connexion en tant qu&#39;admin et un changement du mot de passe par défaut depuis la mise à jour logiciel." style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
-          <mxGeometry x="737" y="681" width="810" height="429" as="geometry" />
+          <mxGeometry x="830" y="681" width="720" height="219" as="geometry" />
         </mxCell>
         <mxCell id="RpBnMsZULe4JTvZevjT1-0" value="&lt;b&gt;is_first_connexion&lt;/b&gt;&lt;br&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : status / isFirstConnexion (bool)" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
-          <mxGeometry x="-800" y="527" width="160" height="83" as="geometry" />
+          <mxGeometry x="-800" y="567" width="160" height="83" as="geometry" />
         </mxCell>
         <mxCell id="RpBnMsZULe4JTvZevjT1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="teRgpZWkY9GLUhYiZThl-1" source="RpBnMsZULe4JTvZevjT1-1" target="RpBnMsZULe4JTvZevjT1-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RpBnMsZULe4JTvZevjT1-1" value="Cas n° 1 :&lt;br&gt;Language = Eng&lt;br&gt;isFirst Connexion = true" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
+        <mxCell id="RpBnMsZULe4JTvZevjT1-1" value="&lt;u&gt;Cas n° 1 :&lt;br&gt;&lt;/u&gt;Language = Eng&lt;br&gt;isFirst Connexion = true" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
           <mxGeometry x="-590" y="400" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="RpBnMsZULe4JTvZevjT1-2" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="teRgpZWkY9GLUhYiZThl-1">
@@ -2225,19 +2225,19 @@
         <mxCell id="RpBnMsZULe4JTvZevjT1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="teRgpZWkY9GLUhYiZThl-1" source="RpBnMsZULe4JTvZevjT1-3" target="RpBnMsZULe4JTvZevjT1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RpBnMsZULe4JTvZevjT1-3" value="Cas n° 2 :&lt;br&gt;Language = Eng&lt;br&gt;isFirst Connexion =&amp;nbsp;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Cas%20n%C2%B0%201%20%3A%26lt%3Bbr%26gt%3BLanguage%20%3D%20Eng%26lt%3Bbr%26gt%3BisFirst%20Connexion%20%3D%20True%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-560%22%20y%3D%22400%22%20width%3D%22140%22%20height%3D%2265%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;false" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
+        <mxCell id="RpBnMsZULe4JTvZevjT1-3" value="&lt;u&gt;Cas n° 2 :&lt;br&gt;&lt;/u&gt;Language = Eng&lt;br&gt;isFirst Connexion =&amp;nbsp;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Cas%20n%C2%B0%201%20%3A%26lt%3Bbr%26gt%3BLanguage%20%3D%20Eng%26lt%3Bbr%26gt%3BisFirst%20Connexion%20%3D%20True%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-560%22%20y%3D%22400%22%20width%3D%22140%22%20height%3D%2265%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;false" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
           <mxGeometry x="-430" y="400" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="RpBnMsZULe4JTvZevjT1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="teRgpZWkY9GLUhYiZThl-1" source="RpBnMsZULe4JTvZevjT1-4" target="RpBnMsZULe4JTvZevjT1-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RpBnMsZULe4JTvZevjT1-4" value="Cas n° 3 :&lt;br&gt;Language = Fr&lt;br&gt;isFirst Connexion = true" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
+        <mxCell id="RpBnMsZULe4JTvZevjT1-4" value="&lt;u&gt;Cas n° 3 :&lt;br&gt;&lt;/u&gt;Language = Fr&lt;br&gt;isFirst Connexion = true" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
           <mxGeometry x="-270" y="400" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="RpBnMsZULe4JTvZevjT1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="teRgpZWkY9GLUhYiZThl-1" source="RpBnMsZULe4JTvZevjT1-5" target="RpBnMsZULe4JTvZevjT1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RpBnMsZULe4JTvZevjT1-5" value="Cas n° 3 :&lt;br&gt;Language = Fr&lt;br&gt;isFirst Connexion = false" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
+        <mxCell id="RpBnMsZULe4JTvZevjT1-5" value="&lt;u&gt;Cas n° 3 :&lt;br&gt;&lt;/u&gt;Language = Fr&lt;br&gt;isFirst Connexion = false" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
           <mxGeometry x="-110" y="400" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="RpBnMsZULe4JTvZevjT1-6" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="teRgpZWkY9GLUhYiZThl-1" target="RpBnMsZULe4JTvZevjT1-1">
@@ -2270,8 +2270,8 @@
             <mxPoint x="162" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RpBnMsZULe4JTvZevjT1-11" value="Affichage page en fonction des réponses aux requetes - 4 cas différents possibles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
-          <mxGeometry x="162" y="330" width="280" height="30" as="geometry" />
+        <mxCell id="RpBnMsZULe4JTvZevjT1-11" value="Affichage de la page correspondante&lt;br&gt;&amp;nbsp;suivants réponses aux requetes&amp;nbsp;&lt;br&gt;(4 cas différents possibles)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
+          <mxGeometry x="162" y="310" width="280" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RpBnMsZULe4JTvZevjT1-12" value="Configuration (Eng)&lt;br&gt;for change default password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="teRgpZWkY9GLUhYiZThl-1">
           <mxGeometry x="-590" y="508" width="140" height="65" as="geometry" />
