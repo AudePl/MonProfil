@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T11:11:07.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="Vv9YKb2d3sWQ8-Iva0vE" version="14.5.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-04-06T12:44:39.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="BG0vEX9N4ieeYnJ6A7iP" version="14.5.7" type="github" pages="11">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Version1">
-    <mxGraphModel dx="2489" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4769,8 +4769,8 @@
         <mxCell id="IICgVu2hocgudsXGJAV0-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="883" y="282" width="441.5" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="IICgVu2hocgudsXGJAV0-20" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 :&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-01560 : doit contenir un champ password et un bouton save. Le password doit être un string et doit être afficher en clair lors de sa modification&lt;br&gt;&lt;br&gt;&lt;b&gt;Services &lt;/b&gt;:&lt;br&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-2000 : password_validation : ce service permet de comparer le password admin entrer et celui enregistrer dans la DTB configuration&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
-          <mxGeometry x="680" y="542" width="720" height="210" as="geometry" />
+        <mxCell id="IICgVu2hocgudsXGJAV0-20" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités dont le paramétrage du réseau&lt;br&gt;PIDS-DTB-REQ-0350 : la DTB doit embarquer un serveur avec un système l&#39;allocation dynamique IP (ex DHCP)&amp;nbsp;&lt;br&gt;PIDS-DTB-REQ-0360 : la DTB doit pouvoir activer/désactiver le système l&#39;allocation dynamique IP&lt;br&gt;PIDS-DTB-REQ-0370 : l&#39;adresse IP de la DTB doit être configurable&lt;br&gt;PIDS-DTB-REQ-0690 : la DTB doit permettre de réinitialiser des paramètres d&#39;usine&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-0165 : doit embarquer un serveur avec un système l&#39;allocation dynamique IPv4 (ex DHCP)&lt;br&gt;SRS-DTB-REQ-0170 : doit pouvoir activer/désactiver le système l&#39;allocation dynamique IP&lt;br&gt;SRS-DTB-REQ-0175 : paramètres d&#39;usine en cas de réinitialisation&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-0180 : paramètres configurables&lt;br&gt;SRS-DTB-REQ-1530 : l&#39;onglet Network Settings doit contenir&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Services &lt;/b&gt;:&lt;br&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-0400 : network_configuratin : ce service permet de configurer le réseau de la DTB soit avec une adresse IP statique, soit avec une plage d&#39;adresses IP dynamiques (la DTB comme serveur DHCP)&amp;nbsp;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="750" y="540" width="650" height="368" as="geometry" />
         </mxCell>
         <mxCell id="IICgVu2hocgudsXGJAV0-26" value="btn Save" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="913" y="452" width="81" height="25" as="geometry" />
@@ -5054,6 +5054,15 @@
         </mxCell>
         <mxCell id="wDmfCCsSlhzg18eD3NjJ-30" value="Affichage msg Success / Error&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="-83" y="618" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGCT0-rAP4Jh4Rnx4xsH-0" value="&lt;b&gt;Paramètres d&#39;usine:&lt;br&gt;SRS-0175&lt;/b&gt;&lt;br&gt;&amp;nbsp;- DHCP server : enabled&lt;br&gt;- Subnet mask : 255.255.0.0&lt;br&gt;- DHCP start adress : 192.168.10.50&lt;br&gt;- DHCP end adress : 192.168.10.100&lt;br&gt;- IP DTB : 192.168.10.1&lt;br&gt;- Gateway IP : no" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="510" y="540" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nGCT0-rAP4Jh4Rnx4xsH-1" value="&lt;b&gt;Paramètres configurables:&lt;br&gt;SRS-0180&lt;br&gt;&lt;/b&gt;- Subnet mask&lt;br&gt;- DHCP start adress&lt;br&gt;- DHCP end adress&lt;br&gt;- IP DTB&lt;br&gt;- Gateway IP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="510" y="669" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3QrnMrLuEa70_Exffjmu-0" value="&lt;b&gt;Paramètres onglet Network :&lt;/b&gt;&lt;br&gt;&lt;b&gt;SRS-1530&lt;/b&gt;&lt;br&gt;- radio box : DHCP server&amp;nbsp;&lt;br&gt;Enable/diable state&lt;br&gt;- input : Subnet mask&lt;br&gt;- input : DHCP start adress&lt;br&gt;- input : DHCP end adress&lt;br&gt;- input : IP DTB&lt;br&gt;- input : Gateway IP&lt;br&gt;- button : Save" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="510" y="790" width="220" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
