@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T10:39:36.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="KAJ1KmThpF2DK2R5BWgP" version="14.5.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-04-06T11:05:36.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="WhLmrwhF16dZNfD3tDBp" version="14.5.7" type="github" pages="11">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Version1">
     <mxGraphModel dx="2489" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4949,7 +4949,7 @@
         <mxCell id="cQG8YACgAG7IYMTgL4vo-18" value="Rq = network_status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="317" y="229" width="280" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="wDmfCCsSlhzg18eD3NjJ-0" value="&lt;b&gt;network_status&lt;br&gt;&lt;/b&gt;Type: GET&lt;br&gt;Input : N/A&lt;br&gt;Output : Status / isDHCPEnabled / networkMask / dhcpStartAddr / dhcpEndAddr / DTB_IP / GATEWAY_IP" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-0" value="&lt;b&gt;network_status&lt;br&gt;&lt;/b&gt;&lt;u&gt;Type&lt;/u&gt;: GET&lt;br&gt;&lt;u&gt;Input&lt;/u&gt; : N/A&lt;br&gt;&lt;u&gt;Output&lt;/u&gt; : Status / isDHCPEnabled / networkMask / dhcpStartAddr / dhcpEndAddr / DTB_IP / GATEWAY_IP" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="-799.75" y="438" width="219.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wDmfCCsSlhzg18eD3NjJ-1" value="" style="endArrow=classic;html=1;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1">
@@ -4973,8 +4973,18 @@
         <mxCell id="wDmfCCsSlhzg18eD3NjJ-5" value="DHCP Disable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="-340" y="329.5" width="126.69" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1" source="wDmfCCsSlhzg18eD3NjJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wDmfCCsSlhzg18eD3NjJ-8" value="input paramétrables :&lt;br&gt;&lt;br&gt;Subnet mask&lt;br&gt;DHCP start address&lt;br&gt;DHCP end adress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="-490" y="409" width="126.69" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1" source="wDmfCCsSlhzg18eD3NjJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wDmfCCsSlhzg18eD3NjJ-10" value="input paramétrables :&lt;br&gt;&lt;br&gt;Subnet mask&lt;br&gt;DLT IP address" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="-340" y="409" width="126.69" height="85.5" as="geometry" />
@@ -4982,8 +4992,59 @@
         <mxCell id="wDmfCCsSlhzg18eD3NjJ-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;JS =&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;Affichage&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;correspondant&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
           <mxGeometry x="-406.35" y="361" width="143" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="wDmfCCsSlhzg18eD3NjJ-13" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;JS =&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;Affichage&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 204 , 0)&quot;&gt;suivant&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;Rq = network_status&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 204 , 0)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
-          <mxGeometry x="-290" y="274" width="143" height="51" as="geometry" />
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-13" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;JS =&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;Affichage&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 204 , 0)&quot;&gt;suivant&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#007fff&quot;&gt;Rp = network_status&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 204 , 0)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="-303" y="278" width="143" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0080;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1" source="wDmfCCsSlhzg18eD3NjJ-16" target="wDmfCCsSlhzg18eD3NjJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-16" value="Save paramètres" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="-413" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-17" value="Paramètres enregistrés" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="-413" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-19" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;Rq =&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;network_configuration&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 204 , 0)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="-363.15" y="571" width="143" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-20" value="&lt;b&gt;network_configuration&lt;br&gt;&lt;/b&gt;&lt;u&gt;Type&lt;/u&gt;: POST&lt;br&gt;&lt;u&gt;Input &lt;/u&gt;: isDHCPEnabled / networkMask / dhcpStartAddr / dhcpEndAddr / DTB_IP / GATEWAY_IP&lt;br&gt;&lt;u&gt;Output &lt;/u&gt;: Status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="-799.75" y="540" width="219.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-21" value="" style="endArrow=classic;html=1;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319" y="360" as="sourcePoint" />
+            <mxPoint x="38" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-22" value="Affichage paramètres correspondant&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="36" y="340" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-23" value="" style="endArrow=classic;html=1;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="399.5" as="sourcePoint" />
+            <mxPoint x="320" y="399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-24" value="Modification paramètres" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="38" y="377.5" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-25" value="" style="endArrow=classic;html=1;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="427" as="sourcePoint" />
+            <mxPoint x="600" y="427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-26" value="Rq = network_status&lt;br&gt;&lt;br&gt;isDHCPEnable&lt;br&gt;networkMask&lt;br&gt;dhcpStartAddr&lt;br&gt;dhcpEndAdddr&lt;br&gt;DTB_IP&lt;br&gt;GATEWAY_IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="318" y="401" width="280" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-27" value="" style="endArrow=classic;html=1;" edge="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599" y="559.5" as="sourcePoint" />
+            <mxPoint x="318" y="559.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wDmfCCsSlhzg18eD3NjJ-28" value="Rp = Status&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_VfXwnp59H50gL2dK0f_-1">
+          <mxGeometry x="318" y="534" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
