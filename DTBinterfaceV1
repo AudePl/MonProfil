@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T10:33:14.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.48" etag="ALCQcRAeNMBg9Ci7ec11" version="14.5.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-04-07T10:33:39.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.48" etag="QdEyjOMzdx2X-tskbJQX" version="14.5.7" type="github" pages="13">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Version1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5782,7 +5782,7 @@
             <mxPoint x="-82.5" y="416.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKJnYXM9weckV_2T36sk-7" value="Affichage des fonctionnalités&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+        <mxCell id="fKJnYXM9weckV_2T36sk-7" value="Affichage des fonctionnalités de l&#39;éqpt&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-84.5" y="389.5" width="280" height="27" as="geometry" />
         </mxCell>
       </root>
