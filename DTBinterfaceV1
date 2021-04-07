@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T10:45:47.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.48" etag="2suvuu0vgle_aaNW9hVm" version="14.5.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-04-07T12:13:03.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.48" etag="egM7DPfW47SbdVesvmLm" version="14.5.7" type="github" pages="13">
   <diagram id="5_0Rv6LaW1c1xQzXsXt5" name="Version1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5379,7 +5379,7 @@
         <mxCell id="fka-OFAW7XlpkHb4H7GE-11" value="dynamic server" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#CCE5FF;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="1400" y="204" width="80" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="fka-OFAW7XlpkHb4H7GE-20" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités&lt;br&gt;PIDS-DTB-REQ-0480 : la DTB doit permettre de charger ses propres données de config, enregistrées de manière persistante (= écrit dans la mémoire flash) ou temporaire (=config perdue à l&#39;extinction de la DTB) dans le but de personnaliser les fonctionnalités du soft&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Services :&lt;br&gt;&lt;/b&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-0420 : read_version : ce service doit récupérer la version du software et le PN de la DTB&lt;br&gt;SRS-DTB-REQ-0620 : get_eqpt_conf : ce service doit récupérer la config pour tous les éqpt définis dans le fichier de config&lt;br&gt;SRS-DTB-REQ-0610 : get_eqpt_mode : ce service doit récupérer la config actuelle des sorties de la DTB selon le fichier de config" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+        <mxCell id="fka-OFAW7XlpkHb4H7GE-20" value="&lt;b&gt;PIDS :&lt;/b&gt;&lt;br&gt;PIDS-DTB-REQ-0050 : l&#39;IHM doit fournir différentes fonctionnalités&lt;br&gt;PIDS-DTB-REQ-0480 : la DTB doit permettre de charger ses propres données de config, enregistrées de manière persistante (= écrit dans la mémoire flash) ou temporaire (=config perdue à l&#39;extinction de la DTB) dans le but de personnaliser les fonctionnalités du soft&lt;br&gt;&lt;br&gt;&lt;b&gt;SRS :&lt;/b&gt;&amp;nbsp;&lt;br&gt;SRS-DTB-REQ-2230 : l&#39;interface doit comporter différentes informations (certaines obligatoires, d&#39;autres optionnelles).&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Services :&lt;br&gt;&lt;/b&gt;PIDS-DTB-REQ-0150 : accès au fonctionnalités via des services Web HTTP&lt;br&gt;SRS-DTB-REQ-0420 : read_version : ce service doit récupérer la version du software et le PN de la DTB&lt;br&gt;SRS-DTB-REQ-0620 : get_eqpt_conf : ce service doit récupérer la config pour tous les éqpt définis dans le fichier de config&lt;br&gt;SRS-DTB-REQ-0610 : get_eqpt_mode : ce service doit récupérer la config actuelle des sorties de la DTB selon le fichier de config" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="640" y="840" width="720" height="300" as="geometry" />
         </mxCell>
         <mxCell id="cQ-zTg4q_Yjo84fThktC-0" value="" style="endArrow=none;html=1;fillColor=#FFFFFF;" edge="1" parent="uYAekYEDPT_1Fccu3ucO-1">
@@ -5431,19 +5431,19 @@
           <mxGeometry x="278" y="294" width="280" height="27" as="geometry" />
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-0" value="Dataloading interface d&#39;un éqpt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
-          <mxGeometry x="-413" y="132" width="140" height="40" as="geometry" />
+          <mxGeometry x="-413" y="133" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-1" value="Upload" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-670" y="360" width="100.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hNdf5__qDUzXq9opomwX-2" value="Manage PN&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+        <mxCell id="hNdf5__qDUzXq9opomwX-2" value="Manage PN &lt;br&gt;(opt)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-342" y="360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hNdf5__qDUzXq9opomwX-3" value="Mode" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+        <mxCell id="hNdf5__qDUzXq9opomwX-3" value="Mode &lt;br&gt;(opt)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-560" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-5" value="Affichage fonctionnalité(s) &lt;br&gt;de l&#39;éqpt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
-          <mxGeometry x="-406.35" y="252" width="126.69" height="48" as="geometry" />
+          <mxGeometry x="-406.35" y="253" width="126.69" height="48" as="geometry" />
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-6" value="&lt;font color=&quot;#ff0080&quot;&gt;Rq : &lt;br&gt;Request &lt;br&gt;Web Services&lt;/font&gt;" style="text;html=1;strokeColor=#FF0080;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-799.75" y="42" width="110" height="60" as="geometry" />
@@ -5459,17 +5459,17 @@
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0080;" edge="1" parent="uYAekYEDPT_1Fccu3ucO-1" source="hNdf5__qDUzXq9opomwX-0" target="hNdf5__qDUzXq9opomwX-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-343" y="204" as="sourcePoint" />
+            <mxPoint x="-343" y="205" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hNdf5__qDUzXq9opomwX-13" value="Information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+        <mxCell id="hNdf5__qDUzXq9opomwX-13" value="Information &lt;br&gt;(opt)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-452" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-14" value="Web Services" style="text;html=1;strokeColor=#000000;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-780.0000000000001" y="520" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;Rq =&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;read_version&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;get_eqpt_conf&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;get_eqpt_mode&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
-          <mxGeometry x="-352" y="175" width="120" height="69" as="geometry" />
+          <mxGeometry x="-352" y="176" width="120" height="69" as="geometry" />
         </mxCell>
         <mxCell id="hNdf5__qDUzXq9opomwX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#00CC00;" edge="1" parent="uYAekYEDPT_1Fccu3ucO-1" source="hNdf5__qDUzXq9opomwX-15" target="hNdf5__qDUzXq9opomwX-15">
           <mxGeometry relative="1" as="geometry" />
@@ -5774,16 +5774,16 @@
         <mxCell id="fKJnYXM9weckV_2T36sk-7" value="Affichage des fonctionnalités de l&#39;éqpt&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-3.5" y="391.5" width="280" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="FNEs_3jx7yGt0ditd4Jv-0" value="Data Loading Report" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+        <mxCell id="FNEs_3jx7yGt0ditd4Jv-0" value="Data Loading Report (opt)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-232" y="360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FNEs_3jx7yGt0ditd4Jv-1" value="Terminal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+        <mxCell id="FNEs_3jx7yGt0ditd4Jv-1" value="Terminal &lt;br&gt;(opt)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-120" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FNEs_3jx7yGt0ditd4Jv-2" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3399FF;" edge="1" parent="uYAekYEDPT_1Fccu3ucO-1" target="hNdf5__qDUzXq9opomwX-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-343" y="320" as="sourcePoint" />
-            <mxPoint y="360" as="targetPoint" />
+            <mxPoint x="-343" y="321" as="sourcePoint" />
+            <mxPoint y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FNEs_3jx7yGt0ditd4Jv-3" value="" style="endArrow=classic;html=1;strokeColor=#3399FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uYAekYEDPT_1Fccu3ucO-1" target="hNdf5__qDUzXq9opomwX-1">
@@ -5824,6 +5824,9 @@
         </mxCell>
         <mxCell id="FNEs_3jx7yGt0ditd4Jv-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Rp =&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;PN / version&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;conf&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;mode&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
           <mxGeometry x="-300" y="267" width="120" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="FNEs_3jx7yGt0ditd4Jv-10" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;u&gt;Layout interface :&lt;/u&gt; (SRS-2230)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;u&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;u&gt;- partie centrale :&lt;/u&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/u&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- section Find targets *&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- section Target found*&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- section Upload (SW type / File selection / status / Edit)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- boutons (Upload / Abort / Reset file list)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- section information de progression (étiquette / barre de progression)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;u&gt;- partie de droite :&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- éqpt mode *&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- éqpt informations *&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- éqpt Data Loading Report *&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- éqpt PN/SN Management *&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- éqpt terminal *&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uYAekYEDPT_1Fccu3ucO-1">
+          <mxGeometry x="1380" y="840" width="207.5" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
